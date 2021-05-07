@@ -1,0 +1,645 @@
+such as part - of - speech
+part - of - speech tagger
+part - of - speech tagging
+part - of - speech tag
+sequence - to - sequence model
+word - to - word
+part - of - speech
+word - by - word
+state - ofthe - art
+tree - to - string
+- fold cross - validation
+end - to - end
+state - of - theart
+tree - to - tree
+out - of - domain
+bag - of - word
+long short - term memory
+sequence - to - sequence
+context - free grammar
+predicate - argument structure
+right - hand side
+left - hand side
+many natural language processing
+such as machine translation
+log - linear model
+- fold cross validation
+multi - document summarization
+inter - annotator agreement
+multi - class classification
+semi - supervised learning
+multi - task learning
+skip - gram model
+cross - lingual word
+cross - entropy loss
+pre - trained word
+encoder - decoder model
+natural language processing
+amount of information
+high - level
+low - level
+source of information
+phrase - structure
+machine translation system
+first - order
+sentence - level
+predicate - argument
+general - purpose
+natural language generation
+point of view
+multi - word
+source - language
+target - language
+part of speech
+order of magnitude
+natural language understanding
+top - down
+bottom - up
+top - level
+long - range
+finite - state
+long - distance
+phrase - level
+verb - object
+free word order
+real - time
+pre - processing
+shift - reduce
+fine - tune
+beam - search
+word sense disambiguation
+word co -
+co - occurrence
+adjective - noun
+trade - off
+large - scale
+real - world
+high - quality
+statistical machine translation
+low - frequency
+n - gram
+noun - noun
+part - ofspeech
+word error rate
+long - term
+question - answer
+set of candidate
+automatic speech recognition
+sub - tree
+fan - out
+wide - coverage
+maximum likelihood estimation
+number of training
+such as word
+amount of training
+second - order
+room for improvement
+word - level
+short - term
+f - measure
+log - likelihood
+line of research
+partof - speech
+low - rank
+chinese word segmentation
+maximum entropy model
+source - target
+set of training
+cross - validation
+t - test
+line of work
+character - level
+feed - forward
+co - reference
+- processing step
+back - translation
+document - level
+gram language model
+top - k
+natural language inference
+e - step
+open - source
+gold - standard
+open - domain
+f - score
+semantic role labeling
+co - training
+self - training
+time step t
+recurrent neural network
+stochastic gradient descent
+f1 - score
+low - resource
+hyper - parameter
+sub - word
+neural network model
+linear - chain
+token - level
+initial learning rate
+target - side
+source - side
+ground - truth
+skip - gram
+pre - training
+deep neural network
+convolutional neural network
+neural machine translation
+encoder - decoder
+self - attention
+input string
+large number
+argument structure
+finite set
+derivation tree
+same way
+time complexity
+natural language
+language processing
+hand side
+previous work
+syntactic structure
+spoken language
+same type
+wide variety
+recent work
+logical form
+language understanding
+syntactic analysis
+speech recognition
+prepositional phrase
+related work
+such information
+standard deviation
+same number
+head noun
+test set
+novel approach
+semantic information
+noun phrase
+exact match
+success rate
+next section
+small number
+computational complexity
+data structure
+parse tree
+same word
+sentence length
+other hand
+dependency structure
+phrase structure
+input sentence
+search space
+co -
+machine translation
+translation system
+parsing model
+future research
+previous section
+relative clause
+word sense
+same sentence
+head word
+real world
+knowledge base
+semantic relation
+semantic representation
+linguistic information
+sub -
+sentence level
+semantic content
+level information
+pronoun resolution
+contextual information
+verb phrase
+upper bound
+large amount
+discourse structure
+average number
+current state
+speech act
+full model
+main verb
+event type
+domain knowledge
+special case
+future work
+surface realization
+surface form
+single word
+- word
+important role
+same time
+cross -
+first step
+decision tree
+elementary tree
+lexical item
+long distance
+auxiliary tree
+root node
+starting point
+target language
+source language
+single sentence
+english sentence
+wide range
+english translation
+feature structure
+tree structure
+following example
+first sentence
+prior knowledge
+unknown word
+lexical knowledge
+non -
+learning process
+normal form
+different word
+text generation
+feature set
+first time
+source code
+e -
+additional information
+new approach
+fair comparison
+semantic analysis
+maximum number
+large scale
+syntactic information
+lexical information
+generation process
+beam search
+next step
+same entity
+evaluation metric
+total number
+time step
+generative model
+generative process
+dynamic programming
+phrase table
+computational cost
+information retrieval
+statistical significance
+first stage
+word pair
+training corpus
+training set
+text corpus
+semantic class
+basic idea
+mutual information
+similarity measure
+joint probability
+semantic relatedness
+error rate
+similarity score
+finite state
+pseudo -
+dialog system
+second step
+tree t
+different feature
+useful information
+initial state
+morphological analysis
+input text
+search algorithm
+world knowledge
+semantic parser
+new domain
+discourse relation
+linguistic knowledge
+re -
+semantic role
+word order
+same meaning
+e t
+next word
+first word
+input word
+semantic parsing
+neural network
+scoring function
+weight matrix
+training time
+target word
+statistical model
+language model
+other language
+sense disambiguation
+word level
+source word
+source sentence
+target sentence
+bilingual dictionary
+english word
+% confidence
+word frequency
+% precision
+bilingual corpus
+high precision
+learning method
+hidden layer
+translation task
+case study
+error detection
+different language
+language pair
+relative frequency
+maximum likelihood
+probabilistic model
+t j
+translation performance
+source text
+hierarchical structure
+relevant information
+semantic similarity
+high accuracy
+large corpus
+conditional probability
+previous research
+training phase
+small set
+language modeling
+same set
+translation model
+word sequence
+english language
+current word
+probability distribution
+uniform distribution
+word type
+good performance
+% recall
+overall performance
+model training
+high performance
+input sequence
+error correction
+semantic knowledge
+previous state
+challenging task
+time t
+local context
+first experiment
+content word
+high level
+relation r
+% accuracy
+significant improvement
+meaning representation
+user interface
+dialog manager
+dialog history
+system output
+temporal relation
+training process
+test corpus
+overall accuracy
+significant difference
+data set
+syntactic parsing
+system performance
+similarity function
+query expansion
+document frequency
+term frequency
+average precision
+structural information
+feature extraction
+parameter estimation
+raw text
+training algorithm
+original sentence
+average length
+vocabulary size
+score function
+% improvement
+performance improvement
+context window
+feature space
+training dataset
+first one
+feature vector
+training procedure
+important information
+supervised learning
+training example
+baseline system
+large set
+parallel text
+classification task
+single model
+dependency tree
+word similarity
+morphological analyzer
+word translation
+dependency relation
+gram model
+error analysis
+syntactic dependency
+regular expression
+lexical cohesion
+human performance
+extraction task
+automatic evaluation
+clustering algorithm
+objective function
+correct answer
+small amount
+classification problem
+probability mass
+distribution p
+unsupervised learning
+distributional similarity
+maximum entropy
+linear combination
+log likelihood
+high quality
+average accuracy
+information extraction
+vector space
+vector representation
+weighted sum
+prediction task
+learning rate
+context vector
+grammar induction
+learning algorithm
+response generation
+optimization problem
+trigram model
+word segmentation
+spoken dialog
+window size
+source phrase
+learning approach
+candidate answer
+chinese word
+probability p
+ground truth
+sentence representation
+context information
+novel method
+model selection
+dimensional vector
+linear model
+new state
+random walk
+learning model
+tag sequence
+translation quality
+model score
+baseline model
+output layer
+graphical model
+development set
+posterior probability
+confidence score
+text summarization
+same topic
+dot product
+regression model
+edit distance
+tagging accuracy
+_ b
+machine learning
+feature representation
+dialog act
+reading comprehension
+source domain
+context word
+supervised training
+word form
+linear regression
+model performance
+parallel corpus
+word alignment
+sentence pair
+gold standard
+search engine
+background knowledge
+document collection
+classification accuracy
+prior work
+channel model
+alignment model
+dependency graph
+beam size
+content selection
+manual annotation
+posterior distribution
+batch size
+text categorization
+logistic regression
+weight vector
+document classification
+binary classification
+document d
+word vector
+external knowledge
+grid search
+coreference resolution
+error reduction
+sequence model
+p r
+translation probability
+bi -
+dependency parser
+annotation scheme
+reference translation
+class label
+source side
+target side
+i t
+entity type
+% f
+entity recognition
+active learning
+knowledge graph
+base model
+dependency parse
+experimental setup
+web search
+news article
+feature engineering
+relation extraction
+pos tagging
+feature selection
+validation set
+topic model
+dialog state
+topic modeling
+word representation
+dependency parsing
+target domain
+attention model
+feature function
+activation function
+document summarization
+reinforcement learning
+hierarchical phrase
+semantic space
+cosine similarity
+topic distribution
+joint model
+arg max
+latent variable
+classification model
+extractive summarization
+summarization task
+text classification
+sentence selection
+- training
+human evaluation
+support vector
+art performance
+relation type
+phrase translation
+domain adaptation
+r t
+loss function
+test time
+open source
+document level
+large margin
+tree kernel
+p t
+relation classification
+negative sentiment
+c j
+event extraction
+event detection
+r d
+strong baseline
+new dataset
+c t
+state h
+hidden state
+sentiment classification
+sentiment analysis
+sentiment polarity
+entity pair
+sequence labeling
+phrase pair
+sentence compression
+system combination
+textual entailment
+structured prediction
+training objective
+f1 score
+h t
+dev set
+opinion mining
+transfer learning
+abstractive summarization
+distant supervision
+deep learning
+neural model
+representation learning
+negative sampling
+attention mechanism
+adversarial training
